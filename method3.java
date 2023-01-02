@@ -1,3 +1,4 @@
+package punyaRipal;
 public class method3{
 //mendefinisikan function
 	static String fungsiShalom(String nama){

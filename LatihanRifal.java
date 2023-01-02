@@ -1,3 +1,4 @@
+package punyaRipal;
 public class LatihanRifal{
 public static void main(String[] args) {
 	byte umur = 20;

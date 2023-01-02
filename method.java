@@ -1,3 +1,4 @@
+package punyaRipal;
 public class method{
 	
 	//mendefiniskan prosedur

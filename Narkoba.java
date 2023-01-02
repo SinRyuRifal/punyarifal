@@ -1,3 +1,4 @@
+package punyaRipal;
 import java.util.*;
 
 public class Narkoba{

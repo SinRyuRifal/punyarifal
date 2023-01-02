@@ -1,3 +1,4 @@
+package punyaRipal;
 import java.util.*;
 public class contohfor {
 	public static void main(String[] args) {

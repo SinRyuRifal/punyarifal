@@ -1,13 +1,14 @@
+package punyaRipal;
 import java.util.*;
 public class tugashari {
 	public static void main(String[] args) {
 int month,year;
-Scanner input = new Scanner(System.in);
+Scanner sc = new Scanner(System.in);
 System.out.println("Program ini digunakan untuk mengecek jumlah");
 System.out.println("pilih bulan dari 1-12");
-month = input.nextInt();
+month = sc.nextInt();
 System.out.println("tahun berapa?");
-year = input.nextInt();
+year = sc.nextInt();
 switch (month) {
 	case 1:
 	case 3:
